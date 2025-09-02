@@ -3,3 +3,10 @@
 *.key
 *.pem
 *.log
+
+Commit and push:
+git add .
+git commit -m "Initial public showcase: docs only"
+gh repo set-default dlarosa92/jobhackai-showcase
+git remote add origin https://github.com/dlarosa92/jobhackai-showcase.git
+git push -u origin main
