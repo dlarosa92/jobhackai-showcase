@@ -1,8 +1,6 @@
-# jobhackai-showcase
-A public docs-only showcase jobhackai
-
 # JobHackAI — Public Showcase
 
+A public docs-only showcase jobhackai
 **Status:** Active development. This repository publishes **documentation only** to describe the project.  
 **No source code is published here. All rights reserved.**
 
