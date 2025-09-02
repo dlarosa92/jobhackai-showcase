@@ -1,0 +1,5 @@
+# keep this docs-only repo clean
+*.env
+*.key
+*.pem
+*.log
